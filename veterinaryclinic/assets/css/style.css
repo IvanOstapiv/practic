@@ -1,0 +1,151 @@
+
+#main{
+	margin-left: 70px;
+    margin-right: 650px;
+}
+.str{
+  display: flex;
+  padding: 15px;
+  justify-content: center;
+  font-size: 250%;
+  font-family: Comic Sans MS;
+  color: #4d4c4c;
+}
+.item{
+  max-width: 50%;
+  padding: 2px;
+  text-align: center;
+  margin: 5px;
+}
+.text1{
+  color: black;
+  font-size: 200%;
+  color: #4d4c4c;
+}
+#img{
+  display: flex;
+  justify-content: space-evenly;
+/*  margin-right: 50px;
+  margin-left: 50px;*/
+}
+#img_1
+{
+  width: 230px;
+  height: 230px;
+}
+#fea{
+  padding-top: 60px ;
+  padding-bottom: 50px ;
+}
+a{
+  color: #6c6c6c;
+  text-decoration: none;
+}
+#row_backgr{
+  background-color: #f5f5f5;
+  background-size: 100% 100%;
+  min-height: 450px
+}
+.items{
+  justify-content: center;
+  display: flex;
+  padding: 15%;
+}
+#pro-nas{
+  font-size: 250%;
+  font-family: Comic Sans MS;
+}
+.veter_desc{
+  font-size: 160%;
+}
+.location{
+  min-width: 380px;
+  align-items: center;
+  color: #4d4c4c;
+  padding-left: 50px;
+}
+.str-house{
+  font-size: 160%;
+}
+.pre-footer{
+  background-color: black;
+  min-height: 300px;
+  padding: 60px 0 30px;
+    font-size: 14px;
+    line-height: 1.6;
+}
+.container{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  #rowq{
+    display: flex;
+  }
+  .sp-module{
+    margin-bottom: 30px;
+  }
+  #rw{
+    color: white;
+  }
+  .col-md-3{
+    width: 230;
+  }
+  #veter1{
+    font-family: Comic Sans MS;
+    font-size: 130%;
+    color: #4d4c4c;
+    text-align: center;
+  }
+  #visit_form{
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 15px;
+  }
+  input{
+    border-radius: 5px;
+    border: inset;
+    margin: 10px;
+  }
+  select{
+    border-radius: 5px;
+    border: inset;
+    margin: 10px;
+    padding: 10px;
+    border-bottom: 2px solid #e3e3e3;
+    width: 339px;
+  }
+  #err{
+    font-size: 80%;
+    margin-bottom: -7px;
+    margin-left: 10px;
+    color: red;
+  }
+  #nick{
+    margin-right: 10px;
+  }
+  .fon-visit{
+    background-color: rgba(192, 192, 190, 0.6);
+    padding-bottom: 0px;
+    padding-left: 120px;
+    padding-top: 40px;
+    padding-right: 120px;
+  }
+  .div-height{
+   height: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #visit{
+    color: #f5f5f5;
+    border-radius: 8px;
+  }
+  .visit-button{
+    margin: 0 0 30px 0;
+  }
+  html{
+    scroll-behavior: smooth;
+  }
